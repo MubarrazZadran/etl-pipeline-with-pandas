@@ -1,0 +1,302 @@
+First_Name,Last_Name,Country,Bronze,Silver,Gold,Grand Total
+ Larisa,Latynina,Soviet Union,4,5,9,18
+ Michael,Phelps,United States,2,0,14,16
+ Nikolay,Andrianov,Soviet Union,3,5,7,15
+ Edoardo,Mangiarotti,Italy,2,5,6,13
+ Takashi,Ono,Japan,4,4,5,13
+ Boris,Shakhlin,Soviet Union,2,4,7,13
+ Birgit,Fischer,East Germany,0,4,8,12
+ Sawao,Kato,Japan,1,3,8,12
+ Alexei,Nemov,Russia,6,2,4,12
+ Paavo,Nurmi,Finland,0,3,9,12
+ Jenny,Thompson,United States,1,3,8,12
+ Dara,Torres,United States,4,4,4,12
+ Matthew,Biondi,United States,1,2,8,11
+ Vera,Caslavska,Czechoslovakia,0,4,7,11
+ Viktor Ivanovich,Chukarin,Soviet Union,1,3,7,11
+ Natalie,Coughlin,United States,4,4,3,11
+ Carl Townsend,Osburn,United States,2,4,5,11
+ Mark,Spitz,United States,1,1,9,11
+ Polina,Astakhova,Soviet Union,3,2,5,10
+ Aleksandr,Dityatin,Soviet Union,1,6,3,10
+ Aladar,Gerevich,Hungary,2,1,7,10
+ Gary Jr.,Hall,United States,2,3,5,10
+ Agnes,Keleti,Hungary,2,3,5,10
+ Carl,Lewis,United States,0,1,9,10
+ Akinori,Nakayama,Japan,2,2,6,10
+ Vitaly,Scherbo,Unified team,4,0,6,10
+ Franziska,Van Almsick,Germany,6,4,0,10
+ Nadia,Comaneci,Romania,1,3,5,9
+ Giulio,Gaudini,Italy,2,4,3,9
+ Eizo,Kenmotsu,Japan,3,3,3,9
+ Merlene,Ottey-Page,Jamaica,6,3,0,9
+ Alexander,Popov,Unified team,0,5,4,9
+ Heikki,Savolainen,Finland,6,1,2,9
+ Alfred,Swahn,Sweden,3,3,3,9
+ Ian,Thorpe,Australia,1,3,5,9
+ Yuri,Titov,Soviet Union,3,5,1,9
+ Mitsuo,Tsukahara,Japan,3,1,5,9
+ Lyudmila,Turischeva,Soviet Union,2,3,4,9
+ Hubert,Van Innis,Belgium,0,3,6,9
+ Mikhail,Voronin,Soviet Union,1,6,2,9
+ Shirley Farber,Babashoff,United States,0,6,2,8
+ G. Vilhelm,Carlberg,Sweden,0,4,4,8
+ Philippe,Cattiau,France,1,4,3,8
+ Inge,De Bruijn,Netherlands,2,2,4,8
+ Roger François,Ducret,France,1,4,3,8
+ Kornelia,Ender,East Germany,0,4,4,8
+ Ray,Ewry,United States,0,0,8,8
+ Dawn,Fraser,Australia,0,4,4,8
+ Gert,Fredriksson,Sweden,1,1,6,8
+ Leisel,Jones,Australia,1,4,3,8
+ Reiner,Klimke,Unified team of Germany,2,0,6,8
+ Margit,Korondi,Hungary,4,2,2,8
+ Elisabeta,Lipa,Romania,1,2,5,8
+ Eugen,Mack,Switzerland,2,4,2,8
+ Roland,Matthes,East Germany,2,2,4,8
+ Georges,Miez,Switzerland,1,3,4,8
+ Sofiya,Muratova,Soviet Union,4,2,2,8
+ Susan,O'Neill,Australia,2,4,2,8
+ Otto M.,Olsen,Norway,1,3,4,8
+ Ville,Ritola,Finland,0,3,5,8
+ Dmitry,Sautin,Unified team,4,2,2,8
+ Petria,Thomas,Australia,1,4,3,8
+ Giovanna,Trillini,Italy,3,1,4,8
+ Anky,Van Grunsven,Netherlands,0,5,3,8
+ Isabell,Werth,Germany,0,3,5,8
+ Simona,Amanar,Romania,3,1,3,7
+ Agneta,Andersson,Sweden,2,2,3,7
+ Amanda,Beard,United States,1,4,2,7
+ Kirsty,Coventry,Zimbabwe,1,4,2,7
+ Charles,Daniels,United States,2,1,4,7
+ Krisztina,Egerszegi,Hungary,1,1,5,7
+ Yukio,Endo,Japan,0,2,5,7
+ Mariya,Gorokhovskaya,Soviet Union,0,5,2,7
+ Grant,Hackett,Australia,1,3,3,7
+ Zoltan,Halmay,Hungary,1,4,2,7
+ Dagmar,Hase,Germany,1,5,1,7
+ Karin,Janz,East Germany,2,3,2,7
+ Svetlana,Khorkina,Russia,1,4,2,7
+ Pal Adam,Kovacs,Hungary,1,0,6,7
+ Pavel,Lednev,Soviet Union,3,2,2,7
+ Willis,Lee,United States,1,1,5,7
+ Jason,Lezak,United States,2,1,4,7
+ Einar,Liberg,Norway,1,2,4,7
+ Gustavo,Marzi,Italy,0,5,2,7
+ Shannon,Miller,United States,3,2,2,7
+ Ivan,Patzaichin,Romania,0,3,4,7
+ Aaron,Peirsol,United States,0,2,5,7
+ Ildiko,Rejto-Ujlaki,Hungary,2,3,2,7
+ Lloyd Spencer,Spooner,United States,2,1,4,7
+ Josef,Stalder,Switzerland,3,3,1,7
+ Shirley,Strickland-De La Hunty,Australia,3,1,3,7
+ Irena,Szewinska,Poland,2,2,3,7
+ Istvan,Szivos,Hungary,2,2,3,7
+ Masao,Takemoto,Japan,3,3,1,7
+ Pieter,Van Den Hoogenband,Netherlands,2,2,3,7
+ Valentina,Vezzali,Italy,1,1,5,7
+ Hans Günter,Winkler,Unified team of Germany,1,1,5,7
+ Georgeta,Andrunache,Romania,1,0,5,6
+ Veronica,Cochelea,Romania,1,3,2,6
+ Piero,D'Inzeo,Italy,4,2,0,6
+ Raimondo,D'Inzeo,Italy,3,2,1,6
+ Christian,D'Oriola,France,0,2,4,6
+ Fernand,De Montigny,Belgium,2,3,1,6
+ Giuseppe,Delfino,Italy,0,2,4,6
+ Burton,Downing,United States,1,3,2,6
+ George,Eyser,United States,1,2,3,6
+ Konrad,Frey,Germany,2,1,3,6
+ Robert,Garrett,United States,2,2,2,6
+ Lucien,Gaudin,France,0,2,4,6
+ Michael,Gross,West Germany,1,2,3,6
+ Jingjing,Guo,China,0,2,4,6
+ Anton,Heida,United States,0,1,5,6
+ Rüdiger,Helm,East Germany,3,0,3,6
+ Knut,Holmann,Norway,1,2,3,6
+ Daniela,Hunger,East Germany,3,1,2,6
+ Doina,Ignat,Romania,1,1,4,6
+ Jackie,Joyner-Kersee,United States,2,1,3,6
+ Rudolf,Karpati,Hungary,0,0,6,6
+ Nelli,Kim,Soviet Union,0,1,5,6
+ Soo-Nyung,Kim,"Korea, South",1,1,4,6
+ Kosuke,Kitajima,Japan,2,0,4,6
+ Michael,Klim,Australia,1,3,2,6
+ Rita,Koban,Hungary,1,3,2,6
+ Pavel,Kolobkov,Soviet Union,3,2,1,6
+ Olga,Korbut,Soviet Union,0,2,4,6
+ Katalin,Kovacs,Hungary,0,4,2,6
+ Gyözö,Kulcsar,Hungary,2,0,4,6
+ Alfred P.,Lane,United States,1,0,5,6
+ Ning,Li,China,1,2,3,6
+ Xiaosahuang,Li,China,1,3,2,6
+ Ole Andreas,Lilloe-Olsen,Norway,0,1,5,6
+ Ryan,Lochte,United States,2,1,3,6
+ Tamara,Manina,Soviet Union,1,3,2,6
+ Angel,Martino,United States,3,0,3,6
+ Lavinia Corina,Milosovici,Romania,3,1,2,6
+ Grigori,Misutin,Unified team,1,4,1,6
+ Nedo,Nadi,Italy,0,0,6,6
+ Harald,Natvig,Norway,1,2,3,6
+ Vladimir,Nazlymov,Soviet Union,1,2,3,6
+ Josef,Neckermann,Unified team of Germany,2,2,2,6
+ Elena,Novikova-Belova,Soviet Union,1,1,4,6
+ Kristin,Otto,East Germany,0,0,6,6
+ John Michael,Plumb,United States,0,4,2,6
+ Andrea,Pollack,East Germany,0,3,3,6
+ Steven,Redgrave,United Kingdom,1,0,5,6
+ Daniel,Revenu,France,5,0,1,6
+ Philippe,Riboud,France,2,2,2,6
+ Murray,Rose,Australia,1,1,4,6
+ Ralph,Rose,United States,1,2,3,6
+ Donald Arthur,Schollander,United States,0,1,5,6
+ Karl-Alfred,Schwarzmann,Germany,2,1,3,6
+ Viktor,Sidyak,Soviet Union,1,1,4,6
+ Daniela,Silivas,Romania,1,2,3,6
+ Renate,Stecher,East Germany,1,2,3,6
+ Leon,Stukelj,Yugoslavia,2,1,3,6
+ Oscar,Swahn,Sweden,2,1,3,6
+ Olga,Tass Lemhenyi,Hungary,2,3,1,6
+ Lisbeth,Trickett,Australia,2,1,3,6
+ Shuji,Tsurumi,Japan,1,3,2,6
+ Amy,Van Dyken,United States,0,0,6,6
+ Yifu,Wang,China,1,3,2,6
+ Hermann,Weingärtner,Germany,1,2,3,6
+ Johnny,Weissmuller,United States,1,0,5,6
+ Bradley,Wiggins,United Kingdom,2,1,3,6
+ Leontien,Zijlaard-Van Moorsel,Netherlands,1,1,4,6
+ Paavo Johannes,Aaltonen,Finland,2,0,3,5
+ Paul,Anspach,Belgium,1,2,2,5
+ Vladimir,Artemov,Soviet Union,0,1,4,5
+ Evelyn,Ashford,United States,0,1,4,5
+ Andras,Balczo,Hungary,0,2,3,5
+ Sabine Christiane,Bau,West Germany,2,2,1,5
+ Irving,Baxter,United States,0,3,2,5
+ Tibor,Berczelly,Hungary,2,0,3,5
+ Jack,Beresford,United Kingdom,0,2,3,5
+ Kay,Bluhm,East Germany,1,1,3,5
+ Arne,Borg,Sweden,2,2,1,5
+ Kathrin,Boron,Germany,1,0,4,5
+ Valery,Borzov,Soviet Union,2,1,2,5
+ Roland,Brückner,East Germany,3,1,1,5
+ Julien Louis,Brule,France,1,3,1,5
+ Georges,Buchard,France,1,2,2,5
+ Constanta,Burcica,Romania,1,1,3,5
+ Antje,Buschschulte,Germany,5,0,0,5
+ Veronica,Campbell-Brown,Jamaica,1,1,3,5
+ Eric,Carlberg,Sweden,0,3,2,5
+ Henri,Chammartin,Switzerland,2,2,1,5
+ Andrew,Charlton,Australia,1,3,1,5
+ Jing,Chen,China,1,2,2,5
+ James,Connolly,United States,2,2,1,5
+ Ian,Crocker,United States,1,1,3,5
+ Josh,Davis,United States,0,2,3,5
+ Adrianus Egbertus Willem,De Jong,Netherlands,5,0,0,5
+ Manlio,Di Rosa,Italy,1,2,2,5
+ Klaus,Dibiasi,Italy,0,2,3,5
+ Ines,Diers,East Germany,1,2,2,5
+ Wilfried,Dietrich,Unified team of Germany,2,2,1,5
+ Andreas,Dittmer,Germany,1,1,3,5
+ Heike,Drechsler,East Germany,2,1,2,5
+ Philip,Edwards,Canada,5,0,0,5
+ Teresa,Edwards,United States,1,0,4,5
+ Mauritz,Eriksson,Sweden,3,1,1,5
+ Janet,Evans,United States,0,1,4,5
+ Dennis,Fenton,United States,2,0,3,5
+ Ian Gordon,Ferguson,New Zealand,0,1,4,5
+ Jens,Fiedler,Germany,2,0,3,5
+ Gustav,Fischer,Switzerland,2,3,0,5
+ Morris,Fisher,United States,0,0,5,5
+ Laura,Flessel-Colovic,France,2,1,2,5
+ Ramon,Fonst,Cuba,0,1,4,5
+ Mingxia,Fu,China,0,1,4,5
+ Elena,Georgescu,Romania,1,1,3,5
+ Gina Elena,Gogean,Romania,3,2,0,5
+ Galina,Gorokhova,Soviet Union,1,1,3,5
+ Shane,Gould,Australia,1,1,3,5
+ Torben,Grael,Brazil,2,1,2,5
+ Florence,Griffith-Joyner,United States,0,2,3,5
+ Maria,Grozdeva,Bulgaria,3,0,2,5
+ Koji,Gushiken,Japan,2,1,2,5
+ Dezso,Gyarmati,Hungary,1,1,3,5
+ Albert,Helgerud,Norway,1,2,2,5
+ John Frederick,Hencken,United States,1,1,3,5
+ Olaf,Heukrodt,East Germany,2,2,1,5
+ Anders,Holmertz,Sweden,1,4,0,5
+ Chris,Hoy,United Kingdom,0,1,4,5
+ Veikko,Huhtanen,Finland,1,1,3,5
+ Marcus,Hurley,United States,1,0,4,5
+ Josefa,Idem,West Germany,2,2,1,5
+ Carl Hugo,Johansson,Sweden,3,0,2,5
+ Andre Rene,Jousseaume,France,1,2,2,5
+ Duke Paoa,Kahanamoku,United States,0,2,3,5
+ Ekaterina,Karsten,Unified team,2,1,2,5
+ Klete,Keller,United States,2,1,2,5
+ Viktor,Klimenko,Soviet Union,1,3,1,5
+ Yana,Klochkova,Ukraine,0,1,4,5
+ Hannes,Kolehmainen,Finland,0,1,4,5
+ Jean-Francois,Lamour,France,2,1,2,5
+ P. Fredric,Landelius,Sweden,2,3,0,5
+ Niels Hansen Ditlev,Larsen,Denmark,3,1,1,5
+ Tatyana,Lebedeva,Russia,1,3,1,5
+ Xiaopeng,Li,China,1,0,4,5
+ Liselott,Linsenhoff,Unified team of Germany,1,2,2,5
+ Viktor,Lisitsky,Soviet Union,0,5,0,5
+ Nastia,Liukin,United States,1,3,1,5
+ Marina,Logvinenko,Soviet Union,2,1,2,5
+ Yun,Lou,China,1,2,2,5
+ Gregory,Louganis,United States,0,1,4,5
+ Christopher Paul,Mac Donald,New Zealand,1,1,3,5
+ Lars Jörgen,Madsen,Denmark,1,2,2,5
+ Carlo,Massullo,Italy,2,2,1,5
+ Bradley,Mcgee,Australia,3,1,1,5
+ Mary T.,Meagher,United States,1,1,3,5
+ Franco,Menichelli,Italy,3,1,1,5
+ William,Merz,United States,4,1,0,5
+ Aldo,Montano,Italy,1,3,1,5
+ Pablo,Morales,United States,0,2,3,5
+ Daniel,Morelon,France,1,1,3,5
+ Valentin,Muratov,Soviet Union,0,1,4,5
+ John Phillips,Naber,United States,0,1,4,5
+ Christian,Noël,France,4,0,1,5
+ Lawrence Adam,Nuesslein,United States,2,1,2,5
+ Jon,Olsen,United States,1,0,4,5
+ Östen,Östensen,Norway,2,3,0,5
+ Charles Ferdinand,Pahud De Mortanges,Netherlands,0,1,4,5
+ Achille,Paroche,France,1,3,1,5
+ Jerzy,Pawlowski,Poland,1,3,1,5
+ Ramona,Portwich,East Germany,0,2,3,5
+ Stanislav,Pozdnyakov,Unified team,1,0,4,5
+ Galina,Prozumenschikova-Stepanova,Soviet Union,2,2,1,5
+ Oreste,Puliti,Italy,0,1,4,5
+ Mary-Lou,Retton,United States,2,2,1,5
+ Michael,Reusch,Switzerland,0,4,1,5
+ Aleksander,Romankov,Soviet Union,2,2,1,5
+ Antonio,Rossi,Italy,1,1,3,5
+ Ralf,Schumann,East Germany,0,2,3,5
+ Jasna,Sekaric,Yugoslavia,1,3,1,5
+ Melvin,Sheppard,United States,0,1,4,5
+ Christine,Stueckelberger,Switzerland,1,3,1,5
+ Viorica,Susanu,Romania,1,0,4,5
+ Ecaterina,Szabo,Romania,0,1,4,5
+ Miya,Tachibana,Japan,1,4,0,5
+ Miho,Takeda,Japan,1,4,0,5
+ Ryoko,Tani,Japan,1,2,2,5
+ Henry,Taylor,United Kingdom,2,0,3,5
+ Walter B. John,Tewksbury,United States,1,2,2,5
+ Earl Foster,Thomson,United States,0,3,2,5
+ Mark,Todd,New Zealand,2,1,2,5
+ Gwen,Torrence,United States,1,1,3,5
+ Ladislav,Vacha,Czechoslovakia,2,2,1,5
+ Albertson,Van Zo Post,Cuba,2,1,2,5
+ Johan Hübner,Von Holst,Sweden,1,2,2,5
+ Katrin,Wagner-Augustin,Germany,1,0,4,5
+ Nan,Wang,China,0,1,4,5
+ Andreas,Wecker,East Germany,2,2,1,5
+ Karl Magnus,Wegelius,Finland,4,1,0,5
+ Malvin Groston,Whitfield,United States,1,1,3,5
+ Edvin,Wide,Sweden,4,1,0,5
+ Ni,Xiong,China,1,1,3,5
+ Wei,Yang,China,0,2,3,5
+ Giorgio,Zampori,Italy,1,0,4,5
+ Emil,Zatopek,Czechoslovakia,0,1,4,5
+ Erika,Zuchold,East Germany,1,4,0,5
